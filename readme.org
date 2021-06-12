@@ -1,0 +1,2 @@
+# Intel backlight helper
+Small helper thats meant to be used as a setuid executable. Allows adjusting the backlight on intel laptops as unprivileged user.
